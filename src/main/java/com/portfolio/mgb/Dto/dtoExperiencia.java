@@ -5,7 +5,9 @@
  */
 package com.portfolio.mgb.Dto;
 
-import javax.validation.constraints.NotBlank;
+import jakarta.validation.constraints.NotBlank;
+
+
 
 public class dtoExperiencia {
     @NotBlank
